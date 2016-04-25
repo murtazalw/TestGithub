@@ -3,5 +3,5 @@
  */
 public class Bar {
     int b;
-    String s, s2, s3;
+    String s, s2;
 }
